@@ -1,0 +1,4 @@
+This repository is designed for automating the login process and handling authentication checks for social media accounts, specifically X. It utilizes Selenium WebDriver for browser automation, BeautifulSoup for parsing HTML content, and imaplib for email interactions. The script manages various login scenarios, including handling two-factor authentication (2FA) codes, email verification, and network errors. It is structured to work with a SQL database for account management and integrates with external modules for rate limits and 2FA code retrieval.
+
+It can carry out multiprocessing tweets scrapping.
+It cannot avoid X human-interated authentication under massive scrapping.
